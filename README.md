@@ -1,6 +1,9 @@
 # Random Password Generator
+
 **Автор:** Набиуллин Алмаз
+
 **Вариант:** №1 Random Password Generator
+
 **Дата сдачи:** 04.05.2026
 
 ---
